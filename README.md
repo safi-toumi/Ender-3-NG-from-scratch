@@ -22,7 +22,7 @@ NOTE:this repo was created to help people building this printer without the need
 
 ## Bill of materials
 
-The full list is in [`BOM.csv`](BOM.csv). It is split into four categories:
+The full list is in [`BOM.md`](BOM.md). It is split into four categories:
 
 1. Frame and enclosure
 2. Motion system
