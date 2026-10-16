@@ -10,7 +10,7 @@ NOTE:this repo was created to help people building this printer without the need
 
 | File | Description |
 |------|-------------|
-| `BOM.csv` | Full bill of materials, grouped by category |
+| `BOM.md` | Full bill of materials, grouped by category |
 | `README.md` | This ur reading now|
 
 ## Overview
