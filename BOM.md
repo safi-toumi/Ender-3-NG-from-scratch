@@ -2,31 +2,35 @@
 
 | Part | Qty | Notes |
 |------|-----|-------|
-| 4040 V-slot extrusion | 2 | Base frame sides (e.g., 350 mm for Pro-style) |
-| 2040 V-slot extrusion, 350 mm | 2 | Front uprights / Ultimate frame front |
-| 2040 V-slot extrusion, 300 mm | 2 | Ultimate frame front (fit 310 mm space with printed spacers) |
+| 4040 V-slot extrusion, 350 mm | 1 | Base frame rear |
+| 4040 V-slot extrusion, 290 mm | 2 | Base frame sides/ M5 taped end holes |
+| 2040 V-slot extrusion, 400 mm | 2 | Frame vertical supports / M5 taped end holes |
+| 2040 V-slot extrusion, 350 mm | 2 | Ultimate frame front (fit 310 mm space with printed spacers) |
+| 2040 V-slot extrusion, 310 mm | 2 | |
 | 2020 V-slot extrusion, 330 mm | 1 | Top cross frame (replaces original Ender 3 Y extrusion) |
+| 2020 V-slot extrusion, 345 mm | 1 |M5 taped end holes |
+| Rubber feet (19 mm, M5 hole) | 4 | ensure good quality and vibration handling |
 | 4 mm polycarbonate panel | 3–4 | Sides & top for V2-style enclosure |
 | 5 mm polycarbonate panel | 1 | Front door |
 | 3 mm panel | 1 | Rear electronics cover |
 | M5 T-nuts & M5x10/12 BHCS | ~40 | For joining extrusions (quantities vary with frame) |
-| Rubber feet (19 mm, M5 hole) | 4 | |
+!For more info on the polycarbonate pannel and the fastners visit rh3d.xyz
 
 # ⚙️ Motion System
 
 | Part | Qty | Notes |
 |------|-----|-------|
-| NEMA 17 stepper motor (2.5A) | 2 | For CoreXY gantry (e.g., HoneyBadger 2.5A) |
+| NEMA 17 stepper motor (2.5A) | 2 | For CoreXY gantry (good quality ones will make a diff) |
 | NEMA 17 stepper motor (standard) | 2–3 | For Z-axis & extruder (depending on single/triple Z) |
+| 8 mm linear rod, 350 mm | 4 | X/Y gantry |
+| 12 mm linear rod, 350 mm | 2 | Z-axis (main) |
+| 12 mm linear rod, 320 mm | 1 | Z-axis (triple Z option) |
+| LM8LUU linear bearing | 4 | ensure good quality!|
+| LM12UU linear bearing | 3 | ensure good quality! |
 | GT2 6 mm closed-loop belt, 1140 mm | 1 | Z-axis belt |
 | GT2 6 mm open belt (Gates) | 3 m | For CoreXY AB belts |
 | 40T GT2 pulley (8 mm bore, 6 mm belt) | 3 | |
 | 20T GT2 pulley (5 mm bore, 6 mm belt) | 3 | |
-| 8 mm linear rod, 350 mm | 4 | X/Y gantry |
-| 12 mm linear rod, 350 mm | 2 | Z-axis (main) |
-| 12 mm linear rod, 320 mm | 1 | Z-axis (triple Z option) |
-| LM8LUU linear bearing | 4 | |
-| LM12UU linear bearing | 3 | |
 | F695-2RS bearing | 32 | For gantry & belts |
 | 608-2RS bearing | 6 | |
 | T8/8 x 300 mm leadscrew | 3 | For triple Z (or 1 for single Z) |
