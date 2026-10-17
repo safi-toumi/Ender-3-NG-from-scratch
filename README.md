@@ -12,6 +12,7 @@ NOTE:this repo was created to help people building this printer without the need
 |------|-------------|
 | `BOM.md` | Full bill of materials, grouped by category |
 | `README.md` | This ur reading now|
+| `Generated_E3NG_BOM.xlsm` | the official configurator i generated|
 
 ## Overview
 
