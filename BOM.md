@@ -14,6 +14,7 @@
 | 5 mm polycarbonate panel | 1 | Front door |
 | 3 mm panel | 1 | Rear electronics cover |
 | M5 T-nuts & M5x10/12 BHCS | ~40 | For joining extrusions (quantities vary with frame) |
+
 !For more info on the polycarbonate pannel and the fastners visit rh3d.xyz
 
 # ⚙️ Motion System
